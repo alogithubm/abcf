@@ -1,9 +1,14 @@
 /* define font-face */
 @font-face {
     font-family: 'CaviarDreams';
-    src: url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/fonts/BMYEONSUNG.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/BMYEONSUNG.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/BMYEONSUNG.otf') format('opentype');
+    src: url('https://github.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CaviarDreams';
+    src: url('https://github.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
