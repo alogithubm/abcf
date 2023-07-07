@@ -1,23 +1,8 @@
-@font-face {
-    font-family: 'rawline';
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot');
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff') format('woff'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.svg') format('svg');
-    font-weight: 100;
-    font-style: normal;
-} 
-
-@font-face {
-    font-family: 'rawline';
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot');
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff') format('woff'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.svg') format('svg');
-    font-weight: 100;
-    font-style: normal;
-} 
+/* call font-face */
+@import url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@1412e022351a963c461016d9114a223bd14fd9b5/font.css');
+/* apply font */
+h1 {
+	font-family: 'BMYeonSung', monospace;
+	font-weight: normal;
+	font-style: normal;
+}
