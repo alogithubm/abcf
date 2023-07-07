@@ -1,14 +1,14 @@
 /* define font-face */
 @font-face {
     font-family: 'CaviarDreams';
-    src: url('https://raw.githubusercontent.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams.ttf') format('ttf');
+    src: url('https:/raw.githubusercontent.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'CaviarDreams_Bold';
-    src: url('https://raw.githubusercontent.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams_Bold.ttf') format('ttf');
+    src: url('https:/raw.githubusercontent.com/alogithubm/abcf/blob/abcf/fonts/CaviarDreams_Bold.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
